@@ -16,10 +16,10 @@ class Plat extends StatelessWidget {
               color: Colors.black12
           )
       ),
-      child: Row(
+      child: Row(  
         mainAxisAlignment: MainAxisAlignment.start,
         crossAxisAlignment: CrossAxisAlignment.center,
-        children: [
+        children: [                                    
           Container(
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(16)
