@@ -1,6 +1,5 @@
+import 'package:best_food/screens/home/home.dart';
 import 'package:flutter/material.dart';
-
-import 'home/home.dart';
 
 void main() {
   runApp(const MyApp());
